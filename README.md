@@ -13,15 +13,16 @@ Simple Arduino powered PhotoFrame and Clock using an SD Card for the photo libra
 ```
 WebMos D1 Mini Pin -> 1.8" TFT Pin
 
-5V    -> VCC
-GND   -> GND
+5V    -> VCC 
+GND   -> GND 
 3.3V  -> LED 
-D1			-> CS (of LCD)
-D2			-> A0 (of LCD)
+D1    -> CS 
+D2    -> A0
+D4    -> SD_CS
 D5 (SCK) 	-> SCK (of LCD) + SD_SCK
-D6 (MISO) 	-> SD_MISO
-D7 (MOSI)   -> SDA (of LCD) + SD_MOSI
-RST			-> RESET
+D6 (MISO)	-> SD_MISO
+D7 (MOSI) -> SDA (of LCD) + SD_MOSI
+RST			  -> RESET
 
 ```
 
