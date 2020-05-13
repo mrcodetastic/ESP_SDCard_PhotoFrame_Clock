@@ -31,4 +31,4 @@ Place as many photos as you want on the SD card as a .jpeg, but resize and lands
 
 The code currently changes photo each day, but you can change this as you desire.
 
-![Working Photo frame](PhotoClock_1jpg)
+![Working Photo frame](PhotoClock_1.jpg)
