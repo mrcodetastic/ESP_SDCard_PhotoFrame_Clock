@@ -25,6 +25,8 @@ RST			-> RESET
 
 ```
 
+![Working Photo frame](1_8_inch_tft.jpg)
+
 
 ## Photos
 Place as many photos as you want on the SD card as a .jpeg, but resize and landscape orientation of them to 160x128.
